@@ -1,0 +1,4 @@
+﻿  GatorAVL.cpp
+C:\Users\kptil\Code\GatorAVL\GatorAVL\GatorAVL.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kptil\Code\GatorAVL\GatorAVL\GatorAVL.cpp(36,27): warning C4018: '<': signed/unsigned mismatch
+  GatorAVL.vcxproj -> C:\Users\kptil\Code\GatorAVL\Debug\GatorAVL.exe
